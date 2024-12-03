@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<personas>
+    <persona>
+        <identificacion>asd</identificacion>
+        <nombre>asd</nombre>
+        <correo>asd</correo>
+    </persona>
+    <persona>
+        <identificacion>121212</identificacion>
+        <nombre>hola</nombre>
+        <correo>pepe</correo>
+    </persona>
+    <persona>
+        <identificacion>aaa</identificacion>
+        <nombre>aaa</nombre>
+        <correo>aaa</correo>
+    </persona>
+</personas>
